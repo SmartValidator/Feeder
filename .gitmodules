@@ -1,0 +1,7 @@
+[submodule "yabmp"]
+	path = yabmp
+	url = https://github.com/SmartValidator/yabmp
+[submodule "rpki-validator-3"]
+	path = rpki-validator-3
+	url = https://github.com/RIPE-NCC/rpki-validator-3.git
+	branch = master

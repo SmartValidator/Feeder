@@ -8,5 +8,14 @@
     <artifactId>feeder</artifactId>
     <version>0.1-snapshot</version>
 
+    <modules>
+        <module>rpki-validator-3</module>
+    </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>net.ripe.rpki</groupId>
+            <artifactId>rpki-validator</artifactId>
+        </dependency>
+    </dependencies>
 </project>
